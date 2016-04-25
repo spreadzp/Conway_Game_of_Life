@@ -2,9 +2,8 @@
 
 # How to "play"
 
-Click and drag to lay down the "seed" cells.
-Press any key to start/stop the simulation.
-Click here to play
+Press button "Start" to start the simulation.
+ 
 
 # About game's rules
 
