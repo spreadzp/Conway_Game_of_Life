@@ -120,7 +120,7 @@ class LifeGame{
 		}
 	}
 
-	public refreshLife(){
+	private refreshLife(){
 		for(let j in this.board.newBornCells){
 
 			if (this.board.newBornCells[j].numberNeighbours == 3){
